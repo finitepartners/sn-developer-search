@@ -1,4 +1,4 @@
-# Finite Product A
+# Developer Search
 
 ![Alt](docs/img/finite-logo-75.png "Finite Logo")
 
