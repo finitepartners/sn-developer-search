@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+    <div style="margin-left:auto; margin-right:auto; margin-top:50px; width:75%; text-align:center;">
+        <form id='dSearchForm' name='dSearchForm'>
+            <label for='q'><h1>Sys ID Search 1.0</h1></label><br /><br />
+            <input type="text" id="q" name="q" style="width:600px;" /><br /><br />
+            <br />
+            <input id="search" name="search" type="submit" value="Search" style="margin-left:10px;"/>
+        </form>
+    </div>
+    <div id="dsResults" style="margin-left:auto; margin-right:auto; margin-top:50px; width:75%; text-align:center;">
+    </div>
+</j:jelly>
